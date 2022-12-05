@@ -1,1 +1,2 @@
-#!/bin/bash 7-file 8-cwd_state
+##!/bin/bash
+head -n 3 iacta | tial -n 1
